@@ -1,0 +1,3 @@
+ls
+result_ls.txt
+u15.sh
